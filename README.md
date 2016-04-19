@@ -1,18 +1,10 @@
 
-Swift RSS Sample
+Swift RSS Sample ,Version Xcode 7
 ================
 
-An RSS reader app written in [Swift](https://developer.apple.com/swift/). About 100 lines of code and written within about an hour. Proved Swift is a good programming language :-)
+This is the repository from [here](https://github.com/wantedly/swift-rss-sample)
+and just rewrited to fit in the latest version of Xcode. (2016/04/19)  
 
-![Movie](movie.gif)
-
-
-
-
-
-We are hiring! Looking for [Swift programmer](https://www.wantedly.com/projects/7755) :-p
-
-(日本語) [Swiftなら誰にも負けないiOSエンジニア・ウォンテッド！！](https://www.wantedly.com/projects/7755)
 
 ### Installation
 

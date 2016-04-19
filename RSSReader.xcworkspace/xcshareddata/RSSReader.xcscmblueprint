@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "05BAE8BB865DB2DF70D157C005287F8FF034FE68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7B007683-1A9F-4419-A960-2C0E408BADDF" : 0,
+    "05BAE8BB865DB2DF70D157C005287F8FF034FE68" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E800942E-402F-4C5E-8E22-99B1590ADA24",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7B007683-1A9F-4419-A960-2C0E408BADDF" : "RSSReaderSwift",
+    "05BAE8BB865DB2DF70D157C005287F8FF034FE68" : "swift-rss-sample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RSSReader",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RSSReader.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wantedly\/swift-rss-sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05BAE8BB865DB2DF70D157C005287F8FF034FE68"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/susieyy\/RSSReaderSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B007683-1A9F-4419-A960-2C0E408BADDF"
+    }
+  ]
+}

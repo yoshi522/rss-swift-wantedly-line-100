@@ -46,12 +46,12 @@ class ViewController: UITableViewController, MWFeedParserDelegate {
     
     
     func feedParser(parser: MWFeedParser, didParseFeedInfo info: MWFeedInfo) {
-        println(info)
+        print(info)
         self.title = info.title
     }
     
     func feedParser(parser: MWFeedParser, didParseFeedItem item: MWFeedItem) {
-        println(item)
+        print(item)
         self.items.append(item)
     }
 
